@@ -39,7 +39,12 @@ namespace OnlyPansValdiviesoDaniel
             int precioespecial = 2000 * Convert.ToInt32(textBox5.Text);
             int preciototal = precionoalinado + precioalinado + precioespecial;
             richTextBox1.Text = ("Nombre: " + txtBoxNombre.Text + "\n" + "Cedula: " + textBox1.Text + "\n" + "Hora de la venta: " + textBox2.Text + "\n" + "Precio total: " + preciototal.ToString());
-
+            txtBoxNombre.Clear();
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+            textBox4.Clear();
+            textBox5.Clear();
 
 
         }
