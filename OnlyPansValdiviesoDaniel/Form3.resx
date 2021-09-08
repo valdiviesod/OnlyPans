@@ -117,26 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="cómo_funciona_una_panadería" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cómo-funciona-una-panadería.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Maquinas_para_panaderia_2_1200x730" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Maquinas-para-panaderia-2-1200x730.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="motivos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\motivos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pan_modelo_inconsútil_de_la_panadería_pan_colorido_del_fondo_baguette_repostería_y_pastelería_cruasán_magdalena_panecillo_44949325" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pan-modelo-inconsútil-de-la-panadería-pan-colorido-del-fondo-baguette-repostería-y-pastelería-cruasán-magdalena-panecillo-44949325.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_19584611_de_fondo_sin_fisuras_con_los_productos_de_panadería" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\19584611-de-fondo-sin-fisuras-con-los-productos-de-panadería.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_42280315_mano_panadería_dibujado_patrón_de_fondo_sin_fisuras_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\42280315-mano-panadería-dibujado-patrón-de-fondo-sin-fisuras-.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
