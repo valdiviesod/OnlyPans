@@ -83,6 +83,16 @@ namespace OnlyPansValdiviesoDaniel.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _20180523134045_panaderiqa {
+            get {
+                object obj = ResourceManager.GetObject("_20180523134045_panaderiqa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _42280315_mano_panadería_dibujado_patrón_de_fondo_sin_fisuras_ {
             get {
                 object obj = ResourceManager.GetObject("_42280315_mano_panadería_dibujado_patrón_de_fondo_sin_fisuras_", resourceCulture);

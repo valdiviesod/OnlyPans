@@ -16,5 +16,41 @@ namespace OnlyPansValdiviesoDaniel
         {
             InitializeComponent();
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int precioalinado = 1000 * Convert.ToInt32(textBox3.Text);
+            int precionoalinado = 500 * Convert.ToInt32(textBox4.Text);
+            int precioespecial = 2000 * Convert.ToInt32(textBox5.Text);
+            int preciototal = precionoalinado + precioalinado + precioespecial;
+            MessageBox.Show("Nombre: "+ txtBoxNombre.Text + "\n" + "Cedula: " + textBox1.Text + "\n" + "Hora de la venta: " + textBox2.Text + "\n" + "Precio total: " + preciototal.ToString());
+
+
+
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+       
+        }
+        private void richTextBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
